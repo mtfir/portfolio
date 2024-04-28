@@ -1,0 +1,58 @@
+[
+    {
+        "job": "Internal Division",
+        "company": "Antenna and Propagation Laboratory ITS",
+        "url": "",
+        "start": "Jun 2023",
+        "end": "present",
+        "description": "PIC in laboratory internal training (MATLAB)."
+    },
+    {
+        "job": "Advocacy and Student Prosperity Department Staff",
+        "company": "HIMATEKTRO ITS",
+        "url": "",
+        "start": "May 2023",
+        "end": "Jan 2024",
+        "description": "PIC in e-NFORMATION work program. e-NFORMATION is a forum for information regarding centralized student affair flow with booklet media along with academic information for EE students in ITS."
+    },
+    {
+        "job": "EURO Tutor",
+        "company": "HIMATEKTRO ITS",
+        "url": "",
+        "start": "Mar 2023",
+        "end": "Oct 2024",
+        "description": "Conducted online tutor via zoom for mid and final exam preparation -Electric Circuit 1 Mid Exam (Mar 2023) -Electric Circuit 1 Final Exam (May 2023) -Electric Circuit 1 Mid Exam (October 2023)"
+    },
+    {
+        "job": "Digital Circuit Practicum Assistant",
+        "company": "Microelectronics and Embedded System Laboratory ITS",
+        "url": "",
+        "start": "Aug 2023",
+        "end": "Dec 2023",
+        "description": "Digital circuit practicum is one of the compulsory practicum for all EE students in ITS. There are 4 modules : 1. Logic gates 2. Encoder and Decoder 3. Multiplexer and Demultiplexer (MUX and DEMUX) 4. Flip-flop, shift register and counter"
+    },
+    {
+        "job": "IRC Rules and Track Division",
+        "company": "IRIS ITS",
+        "url": "",
+        "start": "Feb 2023",
+        "end": "Aug 2023",
+        "description": "IRIS Robotic Course and Competition (IRC) is an event held by IRIS Robotic Team. The robotic competition is divided into two categories, mini soccer competition for primary and junior high school students and line follower competition for senior high school, college students and public. My job desk for this event is to make the rules and referee the mini soccer competition."
+    },
+    {
+        "job": "Licensing and Security Division",
+        "company": "EVOLUTION ITS",
+        "url": "",
+        "start": "Nov 2022",
+        "end": "Aug 2023",
+        "description": "Responsible for licensing of EVOLVE subevent. EVOLUTION aims to mantain and improve the reputation of Electrical Engineering ITS, improve the understanding of people about technology advancement, grow a competitive, problem-solving, and innovative soul between participants through competitions held."
+    },
+    {
+        "job": "Internship Trainee",
+        "company": "Barunastra ITS Roboboat Team",
+        "url": "",
+        "start": "Dec 2022",
+        "end": "Jan 2023",
+        "description": "Learn Electrical and Programming Fundamental in Roboboat design consist of 1. Circuit Design and Simulation 2. PCB Design 3. 3D Design 4. Basic C, C++ and Arduino"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "skill-icons:instagram",
+        "link": "https://www.instagram.com/tegar.m.f/",
+        "tooltip": "Instagram"
+    },
+    {
+        "icon": "devicon:linkedin",
+        "link": "https://www.linkedin.com/in/muchammadtegarfirmansyah/",
+        "tooltip": "Linkedin"
+    },
+    {
+        "icon": "devicon:githubactions",
+        "link": "https://www.github.com/mtfir/",
+        "tooltip": "Github"
+    }
+]

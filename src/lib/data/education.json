@@ -1,0 +1,18 @@
+[
+    {
+        "school": "Sepuluh Nopember Institute of Technology",
+        "url": "https://www.its.ac.id",
+        "major": "Bachelor of Electrical Engineering",
+        "start": "2021",
+        "end": "2025",
+        "description": "Cumulative GPA of 3.5/100"
+    },
+    {
+        "school": "State Senior High School 1 Tuban",
+        "url": "https://www.smansatuban.sch.id",
+        "major": "Science, Technology, Engineering, and Mathematics",
+        "start": "2018",
+        "end": "2021",
+        "description": "Cumulative GPA of 91/100"
+    }
+]

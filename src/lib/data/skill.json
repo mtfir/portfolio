@@ -1,0 +1,27 @@
+{
+    "webDevelopment": [
+        { "icon": "devicon:html5", "tooltip": "HTML" },
+        { "icon": "devicon:css3", "tooltip": "CSS" },
+        { "icon": "devicon:javascript", "tooltip": "Javascript" },
+        { "icon": "devicon:typescript", "tooltip": "Typescript" },
+        { "icon": "devicon:php", "tooltip": "PHP" },
+        { "icon": "devicon:nodejs-wordmark", "tooltip": "Node JS" },
+        { "icon": "devicon:npm-wordmark", "tooltip": "NPM" },
+        { "icon": "devicon:tailwindcss", "tooltip": "Tailwind CSS" },
+        { "icon": "devicon:laravel", "tooltip": "Laravel" },
+        { "icon": "devicon:react", "tooltip": "React" },
+        { "icon": "devicon:nextjs", "tooltip": "Next JS" },
+        { "icon": "devicon:svelte", "tooltip": "Svelte" }
+    ],
+    "networkTechnology": [
+        { "icon": "simple-icons:mikrotik", "tooltip": "Mikrotik" },
+        { "icon": "simple-icons:cisco", "tooltip": "Cisco" }
+    ],
+    "electronicsAndRF": [
+        { "icon": "simple-icons:ltspice", "tooltip": "LTSpice" },
+        { "icon": "devicon:c", "tooltip": "C" },
+        { "icon": "devicon:cplusplus", "tooltip": "C++" },
+        { "icon": "devicon:arduino", "tooltip": "Arduino" },
+        { "icon": "devicon:matlab", "tooltip": "Matlab" }
+    ]
+}
